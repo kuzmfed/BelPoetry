@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/font_settings">
+
+        <EditTextPreference
+            android:key="@string/key_text_size"
+            android:title="@string/font_size"
+            android:summary="@string/font_size_summary"
+            android:defaultValue="16"
+            android:dialogTitle="@string/enter_font_size" />
+
+        <ListPreference
+            android:key="@string/key_text_style"
+            android:title="@string/font_style"
+            android:summary="@string/font_style_summary"
+            android:defaultValue="1"
+            android:entries="@array/font_styles"
+            android:entryValues="@array/font_styles"
+            android:dialogTitle="@string/choose_font_style" />
+
+        <ListPreference
+            android:key="@string/key_text_color"
+            android:title="@string/font_color"
+            android:summary="@string/font_color_summary"
+            android:defaultValue="1"
+            android:entries="@array/font_colors"
+            android:entryValues="@array/font_colors"
+            android:dialogTitle="@string/choose_font_color" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/background_settings">
+
+        <ListPreference
+            android:key="@string/key_background_color"
+            android:title="@string/background_color"
+            android:summary="@string/background_color_summary"
+            android:defaultValue="1"
+            android:entries="@array/background_colors"
+            android:entryValues="@array/background_colors"
+            android:dialogTitle="@string/choose_background_color" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/reading_mode_settings">
+
+        <SwitchPreference
+            android:key="@string/key_night"
+            android:summaryOff="@string/day_mode_on"
+            android:summaryOn="@string/night_mode_on"
+            android:switchTextOff="@string/no"
+            android:switchTextOn="@string/yes" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fd1a1a</color>
+    <color name="colorPrimaryDark">#bc2310</color>
+    <color name="colorAccent">#ff1219</color><!--#ce0006-->
+
+    <color name="list_item_background">#dad6d7</color>
+    <color name="poem_background">#efe7d6</color>
+    <color name="poem_night_backround">#000000</color>
+    <color name="poem_night_text_color">#FFFFFF</color>
+    <color name="poem_day_text_color">#000000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="orange">#ff9500</color>
+    <color name="yellow">#d9ff00</color>
+    <color name="green">#00ff00</color>
+    <color name="light_blue">#00ffee</color>
+    <color name="blue">#0000ff</color>
+    <color name="violet">#9900ff</color>
+    <color name="black">#000000</color>
+</resources>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Вершы беларускіх паэтаў</string>
+    <string name="belarussian_poets">Паэты Беларусі</string>
+    <string name="single_poems">Асобныя вершы</string>
+    <string name="favourite">Абранае</string>
+
+    <string name="go_to_home_screen">На галоўны экран</string>
+    <string name="nothing_to_show">Нічога няма</string>
+    <string name="exit_app_message">Націсніце яшчэ раз, каб выйсці</string>
+    <string name="added_to_favourite">Дадана ў абранае</string>
+    <string name="deleted_from_favourite">Выдалена з абранага</string>
+
+    <string name="about">Аб праграме</string>
+    <string name="about_text">Капірайт © 2016 BelApps Inc. Усе правы абаронены\n
+            Зваротная сувязь: kuzm.fed@yandex.by</string>
+
+    <string name="no">Не</string>
+    <string name="yes">Так</string>
+
+    <string name="settings">Налады</string>
+    <string name="font_settings">Налады шрыфту</string>
+    <string name="defaults">Стандартныя налады</string>
+    <string name="defaults_title">Усталяваць налады па змаўчанні</string>
+    <string name="settings_is_changed">Налада зменена</string>
+
+    <string name="font_size">Памер шрыфту</string>
+    <string name="font_size_summary">Усталёўвае новы памер шрыфту</string>
+    <string name="enter_font_size">Увядзіце новы памер шрыфту (ад 10 да 32)</string>
+    <string name="error_message_font_size">Памер шрыфту ўведзены няправільна</string>
+
+    <string name="font_style">Стыль шрыфту</string>
+    <string name="font_style_summary">Усталёўвае стыль шрыфту</string>
+    <string name="choose_font_style">Выберыце стыль шрыфту</string>
+
+    <string name="font_color">Колер шрыфту</string>
+    <string name="font_color_summary">Усталёўвае колер шрыфту</string>
+    <string name="choose_font_color">Выберыце колер шрыфту</string>
+
+    <string name="background_settings">Фон</string>
+    <string name="background_color">Колер фону</string>
+    <string name="background_color_summary">Усталёўвае колер фону</string>
+    <string name="choose_background_color">Выберыце колер фону</string>
+
+    <string name="reading_mode_settings">Налады рэжыму чытання</string>
+    <string name="day_mode_on">Дзённы рэжым уключаны</string>
+    <string name="night_mode_on">Начны рэжым уключаны</string>
+
+    <string name="key_text_size">text_size</string>
+    <string name="key_text_style">text_style</string>
+    <string name="key_text_color">text_color</string>
+    <string name="key_background_color">background_color</string>
+    <string name="key_night">night</string>
+
+    <string name="imageView_descriptor">PhotoImageView</string>
+</resources>

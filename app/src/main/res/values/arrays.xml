@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="author_names">
+        <item>Адам Міцкевіч</item>
+        <item>Алаіза Пашкевіч</item>
+        <item>Алесь Гарун</item>
+        <item>Алесь Дудар</item>
+        <item>Алесь Салагуб</item>
+        <item>Анатоль Сыс</item>
+        <item>Аркадзь Куляшоў</item>
+        <item>Васіль Зуёнак</item>
+        <item>Вінцэнт Дунін-Марцінкевіч</item>
+        <item>Змітрок Бядуля</item>
+        <item>Зоська Верас</item>
+        <item>Кандрат Крапіва</item>
+        <item>Канстанцін Вераніцын</item>
+        <item>Карусь Каганец</item>
+        <item>Ларыса Геніюш</item>
+        <item>Максім Багдановіч</item>
+        <item>Максім Танк</item>
+        <item>Мікола Гусоўскі</item>
+        <item>Міхась Чарот</item>
+        <item>Ніл Гілевіч</item>
+        <item>Паўлюк Багрым</item>
+        <item>Пімен Панчанка</item>
+        <item>Пятро Глебка</item>
+        <item>Пятрусь Броўка</item>
+        <item>Рыгор Барадулін</item>
+        <item>Уладзімір Дубоўка</item>
+        <item>Уладзімір Караткевіч</item>
+        <item>Уладзімір Някляеў</item>
+        <item>Уладзіслаў Сыракомля</item>
+        <item>Францішак Багушэвіч</item>
+        <item>Юрась Свірка</item>
+        <item>Якуб Колас</item>
+        <item>Ян Баршчэўскі</item>
+        <item>Янка Купала</item>
+        <item>Янка Лучына</item>
+        <item>Яўгенія Янішчыц</item>
+    </string-array>
+    <string-array name="author_short_names">
+        <item>А. Міцкевіч</item>
+        <item>А. Пашкевіч</item>
+        <item>А. Гарун</item>
+        <item>А. Дудар</item>
+        <item>А. Салагуб</item>
+        <item>А. Сыс</item>
+        <item>А. Куляшоў</item>
+        <item>В. Зуёнак</item>
+        <item>В. Дунін-Марцінкевіч</item>
+        <item>З. Бядуля</item>
+        <item>З. Верас</item>
+        <item>К. Крапіва</item>
+        <item>К. Вераніцын</item>
+        <item>К. Каганец</item>
+        <item>Л. Геніюш</item>
+        <item>М. Багдановіч</item>
+        <item>М. Танк</item>
+        <item>М. Гусоўскі</item>
+        <item>М. Чарот</item>
+        <item>Н. Гілевіч</item>
+        <item>П. Багрым</item>
+        <item>П. Панчанка</item>
+        <item>П. Глебка</item>
+        <item>П. Броўка</item>
+        <item>Р. Барадулін</item>
+        <item>У. Дубоўка</item>
+        <item>У. Караткевіч</item>
+        <item>У. Някляеў</item>
+        <item>У. Сыракомля</item>
+        <item>Ф. Багушэвіч</item>
+        <item>Ю. Свірка</item>
+        <item>Я. Колас</item>
+        <item>Я. Баршчэўскі</item>
+        <item>Я. Купала</item>
+        <item>Я. Лучына</item>
+        <item>Я. Янішчыц</item>
+    </string-array>
+    <string-array name="font_styles">
+        <item>Звычайны</item>
+        <item>Паўтлусты</item>
+        <item>Курсіў</item>
+        <item>Паўтлусты+Курсіў</item>
+    </string-array>
+    <string-array name="font_colors">
+        <item>Белы</item>
+        <item>Чырвоны</item>
+        <item>Аранжавы</item>
+        <item>Жоўты</item>
+        <item>Зялёны</item>
+        <item>Галубы</item>
+        <item>Сіні</item>
+        <item>Фіялетавы</item>
+        <item>Чорны</item>
+    </string-array>
+    <string-array name="background_colors">
+        <item>Белы</item>
+        <item>Чырвоны</item>
+        <item>Аранжавы</item>
+        <item>Жоўты</item>
+        <item>Зялёны</item>
+        <item>Галубы</item>
+        <item>Сіні</item>
+        <item>Фіялетавы</item>
+        <item>Чорны</item>
+    </string-array>
+</resources>
